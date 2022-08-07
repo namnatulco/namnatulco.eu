@@ -11,4 +11,4 @@ minima:
 
 theme: minima
 markdown: kramdown
-category-list: [test, info]
+category-list: [info]

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Gruppenübersicht"
 resource: true
 categories: [info]
 ---
