@@ -10,5 +10,6 @@ minima:
     instagram: namnatulco
 
 exclude: ["work", "index.html"]
+destination = "climate/posts"
 theme: minima
 markdown: kramdown
