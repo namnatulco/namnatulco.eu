@@ -3,7 +3,7 @@ layout: gruppe
 gruppenname: "Beispielname"
 twitter: "namnatulco"
 instagram: "namnatulco"
-gruppenlabels: [klima, linke, buendnis]
+gruppenlabels: [klima, linke, buendnis, antifa, antira, queerfeminismus, räume, migration, anarchismus]
 last-updated: 2022-08-07
 ---
 
