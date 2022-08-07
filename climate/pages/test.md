@@ -1,8 +1,8 @@
 ---
 layout: page
+resource: true
+categories: [test]
 ---
 
-# Test
-
-This is a mostly empty page.
+This is a mostly empty page, used to test layout features.
 

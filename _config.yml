@@ -13,3 +13,4 @@ minima:
 
 theme: minima
 markdown: kramdown
+categories: [test, info]
