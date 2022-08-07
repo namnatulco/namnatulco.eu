@@ -8,12 +8,12 @@ layout: default
   </header>
 
   <div class="post-content">
-	  <h2>{{ post.gruppenname }}</h2>
- {{ post.gruppenname }} ist eine Gruppe, dessen Eintrag zuletzt am {{ post.last-updated }} aktualisiert wurde.
+	  <h2>{{ page.gruppenname }}</h2>
+ {{ page.gruppenname }} ist eine Gruppe, dessen Eintrag zuletzt am {{ page.last-updated }} aktualisiert wurde.
 
 {% if page.gruppenlabels %}
 Die Gruppe wurde folgenden labels zugeordnet:
-	{% for grlabel in post.gruppenlabels %}
+	{% for grlabel in page.gruppenlabels %}
 	{{ grlabel }} <!-- seiten generieren für die labels? -->
 	{% endfor %}
 {% endif %}
