@@ -10,5 +10,4 @@ categories: [info]
 ### [{{page.gruppenname}}]({{page.url}})
 
 {% endif %}
-{% endif %}
 {% endfor %}
