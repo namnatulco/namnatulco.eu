@@ -1,3 +1,0 @@
-exclude: ["work", "index.html"]
-theme: minima
-markdown: kramdown

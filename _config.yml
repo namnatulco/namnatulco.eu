@@ -1,0 +1,14 @@
+title: "namnatulco.eu - Jeykll-generated"
+author:
+  name: Namnatulco
+  email: rensvdheijden@gmail.com
+
+minima:
+  social_links:
+    github: namnatulco
+    twitter: namnatulco
+    instagram: namnatulco
+
+exclude: ["work", "index.html"]
+theme: minima
+markdown: kramdown

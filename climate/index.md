@@ -1,5 +1,6 @@
-markdown: kramdown
-theme: minima
+---
+layout: home
+---
 
 # Welcome
 
