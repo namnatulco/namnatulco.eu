@@ -1,4 +1,14 @@
- ## {{ post.gruppenname }}
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+	  <h2>{{ post.gruppenname }}</h2>
  {{ post.gruppenname }} ist eine Gruppe, dessen Eintrag zuletzt am {{ post.last-updated }} aktualisiert wurde.
 
 {% if page.gruppenlabels %}
@@ -10,15 +20,18 @@ Die Gruppe wurde folgenden labels zugeordnet:
 Die Gruppe findet ihr hier:
 
 {% if page.twitter %}
-[Twitter](https://twitter.com/{{page.twitter}})
+<a href="https://twitter.com/{{page.twitter}}">Twitter</a>
 {% endif %}
 
 {% if page.instagram %}
-[Instagram](https://instagram.com/{{page.instagram}})
+<a href="https://instagram.com/{{page.instagram}}">Instagram</a>
 {% endif %}
 
 {% if page.web %}
-[eigene Homepage](/{{page.web}})
+<a href="{{page.web}}">Homepage</a>
 {% endif %}
 
     {{ content }}
+  </div>
+
+</article>
