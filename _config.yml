@@ -3,13 +3,13 @@ author:
   name: Namnatulco
   email: rensvdheijden@gmail.com
 
+baseurl: "/climate"
+
 minima:
   social_links:
     github: namnatulco
     twitter: namnatulco
     instagram: namnatulco
 
-exclude: ["work", "index.html"]
-destination: "climate/posts"
 theme: minima
 markdown: kramdown
