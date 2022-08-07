@@ -1,5 +1,5 @@
 ---
-layout:gruppe
+layout: gruppe
 gruppenname: "Beispielname"
 twitter: "namnatulco"
 instagram: "namnatulco"

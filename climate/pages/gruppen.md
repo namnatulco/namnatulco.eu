@@ -1,6 +1,6 @@
 ---
-layout:page
-resource:true
+layout: page
+resource: true
 categories: [info]
 ---
 

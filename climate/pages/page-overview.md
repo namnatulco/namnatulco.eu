@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 ---
 
 Overview of all pages that are resources:
