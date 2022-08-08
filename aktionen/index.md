@@ -6,5 +6,5 @@ This is the home section of the climate section of my website, which is under co
 In which case, hi! [Come say hi on Twitter if you'd like](https://twitter.com/namnatulco/)!
 
 
-<a class="page-link" href="{% link climate/pages/page-overview.md %}">Here is a list of pages with information.</a>
+<a class="page-link" href="{% link aktionen/pages/page-overview.md %}">Here is a list of pages with information.</a>
 On the rest of this page, you'll find a list of blog posts (i.e., news items).

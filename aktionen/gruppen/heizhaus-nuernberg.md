@@ -5,7 +5,7 @@ gruppenname: "Z-bau"
 twitter: ""
 instagram: "heizhaus.nbg"
 web: https://heizhaus.org/
-gruppenlabels: [räume]
+gruppenlabels: [räume, NFF]
 last-updated: 2022-08-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: gruppe
-gruppenname: "Dyke\*March Nürnberg"
+gruppenname: "Dyke*March Nürnberg"
 twitter: ""
 instagram: "dykemarchnuernberg"
 web: https://dykemarchnuernberg.wordpress.com/
