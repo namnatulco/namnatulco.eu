@@ -1,0 +1,11 @@
+---
+layout: gruppe
+gruppenname: "Klimacamp Nürnberg"
+twitter: "KlimacampN"
+instagram: "klimacamp.nbg"
+web: "https://klimacamp-nuernberg.de/"
+gruppenlabels: [klima, NFF]
+last-updated: 2022-08-08
+---
+
+Das Klimacamp in Nürnberg (wurde abgebaut).

@@ -4,7 +4,7 @@ gruppenname: "Greenpeace Nürnberg"
 twitter: "greenpeace_n"
 instagram: "greenpeace_nuernberg"
 web: "https://nuernberg.greenpeace.de"
-gruppenlabels: [klima]
+gruppenlabels: [klima, NFF]
 last-updated: 2022-08-08
 ---
 
