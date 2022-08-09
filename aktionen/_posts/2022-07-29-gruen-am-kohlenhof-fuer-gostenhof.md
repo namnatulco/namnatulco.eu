@@ -3,7 +3,7 @@ layout: post
 title: "Nürnberg for Future: Grün am Kohlenhof – für Gostenhof"
 categories: klima
 date: 2022-07-29
-gruppe: nff
+gruppe: [nff, nau]
 ---
 
 Es gab eine Mahnwache am Kohlenhof, wo die den klimaschädlichen Umbau des Areals Kohlenhof (zwischen S-Bahn-Station, Steinbühler Straße und Stadtteil Gostenhof) thematisiert hat.

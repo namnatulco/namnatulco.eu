@@ -3,7 +3,7 @@ layout: post
 title: "Nürnberg Autofrei: Autopie Parklet"
 categories: klima
 date: 2022-07-23
-gruppe: nau
+gruppe: [nau]
 ---
 
 Am 23.7. wurde das im Nordgarten gebaute Parklet, welches aus einem umgedrehten Auto besteht, fertiggestellt und im Rahmen einer Demo zum Aufseßplatz geschoben. Dort wurde es bemalt und bepflanzt.

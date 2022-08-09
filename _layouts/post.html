@@ -23,7 +23,21 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+      {%- if page.gruppe -%}
+        {% for grup in page.gruppe %}
+	    {% assign grouppath= "/aktionen/gruppen/" + grup + ".md" %}
+	    {% assign file = site.pages | where: "path", grouppath | first %}
+	    {% if file %}
+	    [{{grup}}]({file})
+	    {% else %}
+	    {{grup}}
+	    {% endif %}
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}
+
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
