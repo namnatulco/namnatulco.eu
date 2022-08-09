@@ -1,4 +1,4 @@
-title: "namnatulco.eu - Jeykll-generated"
+title: "Aktionen und Aktionsberichte"
 author:
   name: Namnatulco
   email: rensvdheijden@gmail.com
@@ -11,5 +11,5 @@ minima:
 
 theme: minima
 markdown: kramdown
-category-list: [info]
+category-list: [info, klima]
 gruppenlabels: [klima, linke, bündnis, antifa, antira, queerfeminismus, räume, migration, anarchismus, radverkehr]
