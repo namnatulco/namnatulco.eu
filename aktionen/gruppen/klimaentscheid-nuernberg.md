@@ -4,7 +4,7 @@ gruppenname: "Klimaentscheid Nürnberg"
 twitter: "klimaentscheidN"
 instagram: "klimaentscheid_nbg"
 web: https://www.klimaentscheid-nuernberg.de/
-gruppenlabels: [klima, buendnis]
+gruppenlabels: [klima, bündnis]
 last-updated: 2022-08-07
 ---
 

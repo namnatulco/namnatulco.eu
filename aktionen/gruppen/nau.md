@@ -4,7 +4,7 @@ gruppenname: "Nürnberg Autofrei"
 twitter: "nautofrei"
 instagram: "nautofrei"
 web: https://autofrei-nbg.de/
-gruppenlabels: [klima, buendnis]
+gruppenlabels: [klima, bündnis]
 last-updated: 2022-08-07
 ---
 

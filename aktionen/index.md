@@ -2,9 +2,9 @@
 layout: home
 ---
 
-This is the home section of the climate section of my website, which is under construction; if you're reading this, I'm still fiddling with things and you got here because I sent you a link or you browsed through my repository.
-In which case, hi! [Come say hi on Twitter if you'd like](https://twitter.com/namnatulco/)!
+Auf dieser Seite findet ihr ein Überblick Nürnberger Aktivistigruppen (und eventuell künftig auch im kleinen Umfang Demoberichte und News) die sich thematisch mit Klima, Queerfeminismus, Antifa, Antira, Naturschutz, Radverkehr und ähnliches auseinandersetzen.
+Erfasst werden nur öffentliche Gruppen und Bündnisse. Zweck ist es, einem Ort zu haben, wo Menschen mit Bezug zu diesen Themen eine Gruppe finden können, wo sie mitmachen können. Es tut sich viel, ich weiß nicht alles: Änderungen nimm ich gern entgegen.
+Github-affine Menschen können Änderungen gerne direkt über Github einkippen. Ansonsten erreicht ihr mich über [Twitter](https://twitter.com/namnatulco/).
+Vereinzelt gibt es auch Gruppen aus Nachbarorte (Fürth, Erlangen, ...), allerdings fehlt mir da das Wissen!
 
-
-<a class="page-link" href="{% link aktionen/pages/page-overview.md %}">Here is a list of pages with information.</a>
-On the rest of this page, you'll find a list of blog posts (i.e., news items).
+<a class="page-link" href="{% link aktionen/pages/page-overview.md %}">Infoseiten gibt es hier</a> (sehe auch Menü oben). Im folgenden finden sich News. Eventuell baue ich künftig noch was für anstehendes (bzw. veröffentliche mein eigenen Kalender), aktuell ist hier nur "Vergangenheit" zu finden.

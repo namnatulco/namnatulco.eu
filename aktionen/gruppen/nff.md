@@ -4,7 +4,7 @@ gruppenname: "Nürnberg For Future"
 twitter: ""
 instagram: ""
 web: "https://nuernbergforfuture.de/"
-gruppenlabels: [klima, buendnis]
+gruppenlabels: [klima, bündnis]
 last-updated: 2022-08-08
 ---
 

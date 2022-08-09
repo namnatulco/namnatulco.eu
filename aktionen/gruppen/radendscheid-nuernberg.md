@@ -4,7 +4,7 @@ gruppenname: "Radentscheid Nürnberg"
 twitter: "RadentscheidN"
 instagram: "radentscheid_nbg"
 web: https://radentscheid-nuernberg.de/
-gruppenlabels: [klima, buendnis, NFF]
+gruppenlabels: [klima, bündnis, NFF]
 last-updated: 2022-08-07
 ---
 
