@@ -6,7 +6,7 @@ date: 2022-07-29
 gruppe: nff
 ---
 
-Es eine Mahnwache am Kohlenhof, wo die den klimaschädlichen Umbau des Areals Kohlenhof (zwischen S-Bahn-Station, Steinbühler Straße und Stadtteil Gostenhof) thematisiert hat.
+Es gab eine Mahnwache am Kohlenhof, wo die den klimaschädlichen Umbau des Areals Kohlenhof (zwischen S-Bahn-Station, Steinbühler Straße und Stadtteil Gostenhof) thematisiert hat.
 Vertreten waren unter anderem BUND Naturschutz, BauLust e.V., Bürger\*innenvereine, Nürnberg Autofrei, die Linke Liste, der Nürnberg-Fürther-Stadtkanal-Verein (NFSK), die ÖDP, der VCD und XR.
 Die Raddemo von Fridays for Future hat ihre Schlusskundgebung auf der Mahnwache gegeben.
 
