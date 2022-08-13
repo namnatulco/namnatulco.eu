@@ -5,7 +5,7 @@ gruppenname: "365€-Ticket Nürnberg"
 twitter: ""
 instagram: ""
 web: https://www.365vag.de/
-gruppenlabels: [klima]
+gruppenlabels: [verkehr]
 last-updated: 2022-08-07
 ---
 

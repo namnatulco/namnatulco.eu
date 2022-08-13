@@ -4,7 +4,7 @@ gruppenname: "VCD Kreisverband Großraum Nürnberg"
 twitter: "vcdnuernberg"
 instagram: "vcdnuernberg"
 web: "https://vcd.org/nuernberg"
-gruppenlabels: [klima, NFF]
+gruppenlabels: [klima, NFF, verkehr]
 last-updated: 2022-08-08
 ---
 

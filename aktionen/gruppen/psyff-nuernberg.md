@@ -1,4 +1,3 @@
-
 ---
 layout: gruppe
 gruppenname: "Psychologists For Future Nürnberg"
