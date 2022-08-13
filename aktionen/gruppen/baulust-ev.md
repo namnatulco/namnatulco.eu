@@ -1,6 +1,6 @@
 ---
 layout: gruppe
-gruppenname: "BauLust e.V.
+gruppenname: "BauLust e.V."
 twitter: "baulust"
 instagram: "baulust_e.v"
 web: "https://www.baulust.de/"
