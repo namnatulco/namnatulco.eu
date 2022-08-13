@@ -1,4 +1,3 @@
-
 ---
 layout: gruppe
 gruppenname: "365€-Ticket Nürnberg"

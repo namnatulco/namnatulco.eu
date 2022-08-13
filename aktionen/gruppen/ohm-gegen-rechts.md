@@ -1,4 +1,3 @@
-
 ---
 layout: gruppe
 gruppenname: "AK Ohm gegen Rechts (Technische Hochschule Nürnberg)"

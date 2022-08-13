@@ -1,4 +1,3 @@
-
 ---
 layout: gruppe
 gruppenname: "Institut für Nachhaltigkeit"

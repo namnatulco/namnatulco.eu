@@ -1,4 +1,3 @@
-
 ---
 layout: gruppe
 gruppenname: "Ernährungsrat Nürnberg"
