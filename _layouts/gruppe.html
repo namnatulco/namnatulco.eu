@@ -9,29 +9,32 @@ layout: default
 
   <div class="post-content">
 	  <h2>{{ page.gruppenname }}</h2>
- {{ page.gruppenname }} ist eine Gruppe, dessen Eintrag zuletzt am {{ page.last-updated }} aktualisiert wurde.
+	  {{ page.gruppenname }} ist eine Gruppe, dessen Eintrag zuletzt am {{ page.last-updated }} aktualisiert wurde.<br>
 
+Die Gruppe findet ihr hier:
+<ul>
+{% if page.twitter %}
+<li><a href="https://twitter.com/{{page.twitter}}">Twitter</a></li>
+{% endif %}
+
+{% if page.instagram %}
+<li><a href="https://instagram.com/{{page.instagram}}">Instagram</a></li>
+{% endif %}
+
+{% if page.web %}
+<li><a href="{{page.web}}">Homepage</a></li>
+{% endif %}
+</ul>
+<p>
+    {{ content }}
+</p>
+<br>
 {% if page.gruppenlabels %}
 Die Gruppe wurde folgenden labels zugeordnet:
 	{% for grlabel in page.gruppenlabels %}
 	{{ grlabel }} <!-- seiten generieren für die labels? -->
 	{% endfor %}
+	  <br>
 {% endif %}
-Die Gruppe findet ihr hier:
-
-{% if page.twitter %}
-<a href="https://twitter.com/{{page.twitter}}">Twitter</a>
-{% endif %}
-
-{% if page.instagram %}
-<a href="https://instagram.com/{{page.instagram}}">Instagram</a>
-{% endif %}
-
-{% if page.web %}
-<a href="{{page.web}}">Homepage</a>
-{% endif %}
-
-    {{ content }}
-  </div>
-
+</div>
 </article>
