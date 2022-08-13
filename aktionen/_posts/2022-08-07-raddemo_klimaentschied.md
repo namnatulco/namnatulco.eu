@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raddemo Klimaendscheid"
+title: "Raddemo Klimaentscheid"
 categories: klima
 date: 2022-08-07
 gruppe: ["klimaentscheid-nuernberg", "pff-nuernberg", "radentscheid-nuernberg"]
