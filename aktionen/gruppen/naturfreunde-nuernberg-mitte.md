@@ -5,7 +5,7 @@ twitter: ""
 instagram: ""
 web: "https://www.naturfreunde.de/gruppe/suche"
 gruppenlabels: [NFF]
-last-updated: 2022-08-08
+last-updated: 2022-08-13
 ---
 
-3 Gruppen in Nürnberg (Nord, Mitte, Eibach).
+Es gibt 3 Gruppen in Nürnberg (Nord, Mitte, Eibach), die auch Jugendgruppen haben.
