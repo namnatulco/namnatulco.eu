@@ -5,7 +5,7 @@ resource: true
 categories: [info]
 ---
 
-Im folgenden eine Liste aller Gruppen.
+Im folgenden eine Liste aller Gruppen (diese Liste wird automatisch generiert, Fehler gerne persönlich oder [via github melden](https://github.com/namnatulco/namnatulco.eu/issues/new)).
 
 {% for item in site.gruppenlabels %}
 
