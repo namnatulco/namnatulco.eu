@@ -5,7 +5,7 @@ twitter: "RadentscheidN"
 instagram: "radentscheid_nbg"
 web: https://radentscheid-nuernberg.de/
 gruppenlabels: [klima, bündnis, NFF, verkehr]
-last-updated: 2022-08-07
+last-updated: 2022-08-13
 ---
 
 Bürger\*inneninitiative für Radverkehr in Nürnberg.
