@@ -4,7 +4,7 @@ gruppenname: "BUND Naturschutz Nürnberg"
 twitter: ""
 instagram: "bundnaturschutz_nuernberg"
 web: "https://nuernberg-stadt.bund-naturschutz.de"
-gruppenlabels: [klima, NFF]
+gruppenlabels: [klima, NFF, naturschutz]
 last-updated: 2022-08-13
 ---
 

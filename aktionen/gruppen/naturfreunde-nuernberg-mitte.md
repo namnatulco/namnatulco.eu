@@ -4,7 +4,7 @@ gruppenname: "NaturFreunde Nürnberg"
 twitter: ""
 instagram: ""
 web: "https://www.naturfreunde.de/gruppe/suche"
-gruppenlabels: [NFF]
+gruppenlabels: [NFF, naturschutz]
 last-updated: 2022-08-13
 ---
 
