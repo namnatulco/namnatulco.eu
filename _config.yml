@@ -13,3 +13,7 @@ theme: minima
 markdown: kramdown
 category-list: [info, klima]
 gruppenlabels: [klima, linke, bündnis, antifa, antira, queerfeminismus, räume, migration, anarchismus, radverkehr]
+
+collections:
+  announce:
+    output: true
