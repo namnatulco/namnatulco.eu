@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DykeMarch Nürnberg"
-categories: klima
+categories: queerfeminismus
 date: 2022-08-05
 gruppe: []
 ---
