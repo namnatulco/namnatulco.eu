@@ -4,7 +4,7 @@ title: "Nürnberger Bündnis Nazistopp Gegendemo"
 categories: antifa
 date: 2022-08-13
 event-date: 2022-08-20
-gruppe: []
+gruppe: [verdi, nazistopp]
 ---
 
 Voraussichtlich Kornmarkt um 13:00

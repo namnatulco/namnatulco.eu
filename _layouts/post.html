@@ -24,18 +24,13 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}
-      {%- if page.gruppe -%}
-        {% for grup in page.gruppe %}
-	    {% assign grouppath= "/aktionen/gruppen/" + grup + ".md" %}
-	    {% assign file = site.pages | where: "path", grouppath | first %}
-	    {% if file %}
-	    [{{grup}}]({file})
-	    {% else %}
-	    {{grup}}
-	    {% endif %}
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}
+
+      {% for grup in page.gruppe %}
+      {% assign group = site.gruppen | where: "shortname", grup | first %}
+      {% if group %}<a href="{{group.url}}">{{group.gruppenname}}</a>{%- if forloop.last == false %}, {% endif -%}{% else %}{{grup}}{%- if forloop.last == false %}, {% endif -%}{%endif%}
+      {% else %}
+      keine Gruppe angegeben.
+      {% endfor %}
 
     </p>
   </header>
