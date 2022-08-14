@@ -7,9 +7,11 @@ categories: [info]
 
 Diese Kategorie enthält anstehende Veranstaltungen. 
 
-	  <h3> Achtung! Vorläufige Informationen die nicht von den Anmeldenden gepflegt werden! Bitte unten nachschauen! </h3>
+	  <h3> Achtung! Vorläufige Informationen die nicht von den Anmeldenden gepflegt werden! Bitte bei den jeweiligen Quellen nachschauen! </h3>
 
-{% for item in site.announce %}
+	  <noscript>Wenn du dies liest, kann dein Browser kein Javascript (oder du hast es ausgeschaltet). Javascript wird hier verwendet um vergangene Ereignisse auszublenden, du musst also ggf. runterscrollen um aktuelles zu sehen, weil von alt nach neu sortiert wird.</noscript>
+	  {% assign ordered = site.announce | sort: 'event-date' %}
+{% for item in ordered %}
 
 <div id="{{item.url}}" event-date="{{item.event-date | date: '%Y%m%d'}}">
 <h2> {{item.categories}} {{ item.event-date }}: <a href="{{item.url}}">{{ item.title }}</a></h2>
