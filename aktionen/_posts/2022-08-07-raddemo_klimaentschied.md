@@ -3,7 +3,7 @@ layout: post
 title: "Raddemo Klimaentscheid"
 categories: klima
 date: 2022-08-07
-gruppe: ["klimaentscheid-nuernberg", "pff-nuernberg", "radentscheid-nuernberg"]
+gruppe: ["klimaentscheid", "parff", "radentscheid"]
 ---
 
 Ankündigung gab es hier: [KlimaEntscheid](https://www.klimaentscheid-nuernberg.de/raddemo).

@@ -3,7 +3,7 @@ layout: post
 title: "DykeMarch Nürnberg"
 categories: queerfeminismus
 date: 2022-08-05
-gruppe: []
+gruppe: [dyke]
 ---
 
 Der Dyke\*March ist eine Demonstration für lesbische Sichtbarkeit, die dieses Jahr am Tag vor dem CSD stattfand.

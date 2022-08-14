@@ -6,6 +6,7 @@ instagram: ""
 web: https://mittelfranken.verdi.de/gruppen/antifaschismus
 gruppenlabels: [antifa, antira]
 last-updated: 2022-08-07
+shortname: "verdi"
 ---
 
 Die Gruppe AK Antifa und Antira beim lokalen Ableger der Gewerkschaft ver.di.

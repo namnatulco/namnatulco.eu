@@ -6,6 +6,7 @@ instagram: "csdnuernberg"
 web: https://www.csd-nuernberg.de/
 gruppenlabels: [queerfeminismus, event]
 last-updated: 2022-08-07
+shortname: "csd"
 ---
 
 Christopher Street Day, aka PRIDE, in Nürnberg.

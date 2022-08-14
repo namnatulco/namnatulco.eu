@@ -6,6 +6,7 @@ instagram: "dykemarchnuernberg"
 web: https://dykemarchnuernberg.wordpress.com/
 gruppenlabels: [queerfeminismus, event]
 last-updated: 2022-08-07
+shortname: "dyke"
 ---
 
 dyke\*march Nürnberg, eine Demo für lesbische Sichtbarkeit.

@@ -6,6 +6,7 @@ instagram: ""
 web: https://www.nazistopp-nuernberg.de/
 gruppenlabels: [antifa]
 last-updated: 2022-08-07
+shortname: "nazistopp"
 ---
 
 Das Nürnberger Bündnis Nazistopp ist eine Gruppe die Veranstaltungen gegen Nazis und solche, die mit Nazis arbeiten, organisiert.

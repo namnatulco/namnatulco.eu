@@ -6,6 +6,7 @@ instagram: "antifaak161"
 web: 
 gruppenlabels: [antifa]
 last-updated: 2022-08-07
+shortname: "aak"
 ---
 
 Informationen zur Antifa-Aktionskneipe Nürnberg gibt es auf Instagram.

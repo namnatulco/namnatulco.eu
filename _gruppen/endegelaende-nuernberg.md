@@ -6,6 +6,7 @@ instagram: "ende_gelaende_nuernberg"
 web: "https://www.ende-gelaende.org/"
 gruppenlabels: [klima, NFF]
 last-updated: 2022-08-08
+shortname: "eg"
 ---
 
 Ortsgruppe von Ende Gelände.

@@ -6,6 +6,7 @@ instagram: ""
 web: ""
 gruppenlabels: [klima, NFF]
 last-updated: 2022-08-08
+shortname: "artff"
 ---
 
-Ortsgruppe (keine Präsenz bekant)
+Ortsgruppe (keine on-line Präsenz bekannt)

@@ -6,6 +6,7 @@ instagram: ""
 web: "https://www.bund-naturschutz.de/mobilitaet/autoverkehr/frankenschnellweg/buendnis"
 gruppenlabels: [klima, buendnis]
 last-updated: 2022-08-07
+shortname: "buendnisfsw"
 ---
 
 Organisationen (stand 2016, sehe Webseite):

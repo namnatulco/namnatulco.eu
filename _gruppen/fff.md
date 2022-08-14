@@ -6,6 +6,7 @@ instagram: "fridaysforfuturenbg"
 web: "https://fridaysforfuture.de/ortsgruppen/nuernberg/"
 gruppenlabels: [klima, NFF]
 last-updated: 2022-08-08
+shortname: "fff"
 ---
 
 Ortsgruppe von FFF

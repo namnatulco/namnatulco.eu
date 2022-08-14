@@ -6,6 +6,7 @@ instagram: "klimazirkus_nbg"
 web: "https://klimazirkus-nbg.de/"
 gruppenlabels: [klima]
 last-updated: 2022-08-08
+shortname: "klizi"
 ---
 
 Das Klimazirkus ist eine mobile Mahnwache für Klima-Themen.

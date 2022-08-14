@@ -6,6 +6,7 @@ instagram: "baulust_e.v"
 web: "https://www.baulust.de/"
 gruppenlabels: [klima]
 last-updated: 2022-08-08
+shortname: "baulust"
 ---
 
 BauLust - Initiative für Architektur & Öffentlichkeit e.V.

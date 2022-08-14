@@ -6,6 +6,7 @@ instagram: ""
 web: "https://nuernbergforfuture.de/"
 gruppenlabels: [klima, bündnis]
 last-updated: 2022-08-08
+shortname: "nff"
 ---
 
 Ein Bündnis Nürnberger Klimagruppen. Dazu gehören unter anderem:
