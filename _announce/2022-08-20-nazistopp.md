@@ -13,4 +13,4 @@ Info: [nazistopp](https://www.nazistopp-nuernberg.de/), [flyer](https://www.nazi
 
 [verdi](https://mittelfranken.verdi.de/service/veranstaltungen/++co++76951184-1334-11ed-ab98-001a4a16012a) + infoabend am Vortag [zur Pseudogewerkschaft Zentrum](https://mittelfranken.verdi.de/service/veranstaltungen/++co++4cbae200-1332-11ed-b5b0-001a4a160117)
 
-Related: [demo Antifa](./2022-08-20-antifa)
+Related: [demo Antifa]({% link _announce/2022-08-20-antifa.md %})
