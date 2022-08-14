@@ -11,7 +11,7 @@ Im folgenden eine Liste aller Gruppen (diese Liste wird automatisch generiert, F
 
 ## {{ item }}
 
-{% for page in site.pages %}
+{% for page in site.gruppen %}
 {% if page.layout == "gruppe" and page.gruppenlabels contains item %}
 ### [{{page.gruppenname}}]({{page.url}})
 {% endif %}

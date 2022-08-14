@@ -17,3 +17,5 @@ gruppenlabels: [klima, linke, bündnis, antifa, antira, queerfeminismus, räume,
 collections:
   announce:
     output: true
+  gruppen:
+    output: true
