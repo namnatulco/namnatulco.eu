@@ -7,4 +7,9 @@ Erfasst werden nur öffentliche Gruppen und Bündnisse. Zweck ist es, einem Ort 
 Github-affine Menschen können Änderungen gerne direkt über Github einkippen. Ansonsten erreicht ihr mich über [Twitter](https://twitter.com/namnatulco/).
 Vereinzelt gibt es auch Gruppen aus Nachbarorte (Fürth, Erlangen, ...), allerdings fehlt mir da das Wissen!
 
-<a class="page-link" href="{% link aktionen/pages/page-overview.md %}">Infoseiten gibt es hier</a> (sehe auch Menü oben). Im folgenden finden sich News. Eventuell baue ich künftig noch was für anstehendes (bzw. veröffentliche mein eigenen Kalender), aktuell ist hier nur "Vergangenheit" zu finden.
+### [Anstehendes]({% link aktionen/pages/announce.html %})
+
+### Vergangenes
+
+[Infoseiten gibt es hier]({% link aktionen/pages/page-overview.md %}) (sehe auch Menü oben). Im folgenden finden sich Demoberichte von Veranstaltungen, zu dem ich etwas weiß (Beiträge willkommen! Schreib mich direkt, oder [meld dich via Twitter](https://twitter.com/namnatulco)).
+Eventuell baue ich künftig noch was für anstehendes (bzw. veröffentliche mein eigenen Kalender), aktuell ist hier nur "Vergangenheit" zu finden.
