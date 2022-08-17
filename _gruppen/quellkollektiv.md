@@ -8,4 +8,4 @@ last-updated: 2022-08-17
 shortname: ""
 ---
 
-siehe {% _gruppen/heizhaus-nuernberg.md %}.
+siehe {% link _gruppen/heizhaus-nuernberg.md %}.
