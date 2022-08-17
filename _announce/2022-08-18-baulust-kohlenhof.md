@@ -11,4 +11,6 @@ Ankündigung: [Twitter (NAU)](https://twitter.com/NAutofrei/status/1559777582140
 
 [Termin bei Baulust](https://www.baulust.de/termine/detail/aktion-kohlenhof)
 
-{% link aktionen/_posts/2022-07-29-gruen-am-kohlenhof-fuer-gostenhof.md %}
+Am Termin wird auch [OKNB](https://ohnekerosinnachberlin.com/suedtour-22/) ([twitter](https://twitter.com/ohnekerosin), [insta](https://www.instagram.com/ohnekerosinnachberlin/)) vorbeikommen.
+
+[Aktionsbericht vorheriger Aktion]({% link aktionen/_posts/2022-07-29-gruen-am-kohlenhof-fuer-gostenhof.md %})
