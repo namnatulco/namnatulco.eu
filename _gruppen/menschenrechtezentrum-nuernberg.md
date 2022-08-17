@@ -5,7 +5,7 @@ twitter: "N_M_R_Z"
 instagram: "nbg_menschenrechtszentrum"
 web: "https://www.menschenrechte.org/"
 gruppenlabels: []
-last-updated: 2022-08-07
+last-updated: 2022-08-17
 shortname: "nmrz"
 ---
 
