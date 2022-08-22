@@ -3,7 +3,7 @@ layout: post
 title: "Straßenblockade Letzte Generation"
 categories: klima
 date: 2022-08-16
-gruppe: [xr]
+gruppe: []
 ---
 
 Die letzte Generation war am 16.8. in Nürnberg umd hat mit einigen Menschen aus Nürnberg die Hauptstraße vor dem Bahnhof blockiert.
