@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Straßenblockade Letzte Generation"
