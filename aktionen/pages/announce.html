@@ -5,7 +5,7 @@ resource: true
 categories: [info]
 ---
 
-Diese Kategorie enthält anstehende Veranstaltungen. 
+Diese Seite gibt eine Übersicht zu anstehenden Veranstaltungen in Nürnberg.
 
 	  <h3> Achtung! Vorläufige Informationen die nicht von den Anmeldenden gepflegt werden! Bitte bei den jeweiligen Quellen nachschauen! </h3>
 
@@ -14,7 +14,7 @@ Diese Kategorie enthält anstehende Veranstaltungen.
 {% for item in ordered %}
 
 <div id="{{item.url}}" event-date="{{item.event-date | date: '%Y%m%d'}}">
-<h2> {{item.categories}} {{ item.event-date }}: <a href="{{item.url}}">{{ item.title }}</a></h2>
+<h2> {{ item.event-date }}: <a href="{{item.url}}">{{ item.title }}</a></h2>
 
 <i>letztes Update dieses Eintrags: {{item.date}}</i>
 
