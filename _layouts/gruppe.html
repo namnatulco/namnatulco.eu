@@ -12,21 +12,23 @@ layout: default
 
 Die Gruppe findet ihr hier:
 <ul>
-{% if page.twitter %}
+{% if page.twitter and page.twitter != "" %}
 <li><a href="https://twitter.com/{{page.twitter}}">Twitter</a></li>
 {% endif %}
 
-{% if page.instagram %}
+{% if page.instagram and page.instagram != "" %}
 <li><a href="https://instagram.com/{{page.instagram}}">Instagram</a></li>
 {% endif %}
 
-{% if page.web %}
+{% if page.web and page.web != "" %}
 <li><a href="{{page.web}}">Homepage</a></li>
 {% endif %}
 </ul>
+<hr>
 <p>
     {{ content }}
 </p>
+<hr>
 <br>
 {% if page.gruppenlabels %}
 Die Gruppe wurde folgenden labels zugeordnet:
