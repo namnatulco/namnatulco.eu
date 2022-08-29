@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Ver.di und Bündnis Nazistopp gegen NS-Verharmlosung"
 categories: antifa
 date: 2022-08-20
 gruppe: [nazistopp] 
