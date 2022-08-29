@@ -7,7 +7,7 @@ Erfasst werden nur öffentliche Gruppen und Bündnisse. Zweck ist es, einem Ort 
 Github-affine Menschen können Änderungen gerne direkt über Github einkippen. Ansonsten erreicht ihr mich über [Twitter](https://twitter.com/namnatulco/).
 Vereinzelt gibt es auch Gruppen aus Nachbarorte (Fürth, Erlangen, ...), allerdings fehlt mir da das Wissen!
 
-### [Anstehendes]({% link aktionen/pages/announce.html %})
+# [Hier clicken für anstehende Veranstaltungen]({% link aktionen/pages/announce.html %})
 
 ### Vergangenes
 
