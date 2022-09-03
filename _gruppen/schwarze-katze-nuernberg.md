@@ -4,7 +4,7 @@ gruppenname: "Schwarze Katze Nürnberg"
 twitter: ""
 instagram: ""
 web: https://www.redside.tk/schwarze-katze/
-gruppenlabels: [räume, antifa]
+gruppenlabels: [räume, antifa, redsidetk]
 last-updated: 2022-08-07
 shortname: "katze"
 ---
