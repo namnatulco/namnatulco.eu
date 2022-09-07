@@ -27,6 +27,22 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
 	  <h3> Achtung! Vorläufige Informationen die nicht von den Anmeldenden gepflegt werden! Bitte unten nachschauen! </h3>
     {{ content }}
+
+  {% if page.imageurl or page.imagelocal %}
+  <div>
+	  {% if page.imagelocal %}
+	  <img src="{% link {{page.imagelocal}} %}" alt="">
+	  {% else %}
+	  <img src="{{page.imageurl}}"/>
+	  {% endif %}
+  </div>
+
+  {% endif %}
+    {% if page.alttext %}
+    {% assign alttext = page.alttext %} {{alttext}}
+    {%else%}
+    {% assign alttext = "Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt)." %}
+    {% endif %}
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
