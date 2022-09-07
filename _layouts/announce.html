@@ -31,18 +31,16 @@ layout: default
   {% if page.imageurl or page.imagelocal %}
   <div>
 	  {% if page.imagelocal %}
-	  <img src="{% link {{page.imagelocal}} %}" alt="">
+	  <img src="{% link {{page.imagelocal}} %}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
 	  {% else %}
 	  <img src="{{page.imageurl}}"/>
 	  {% endif %}
   </div>
-
   {% endif %}
     {% if page.alttext %}
-    {% assign alttext = page.alttext %} {{alttext}}
-    {%else%}
-    {% assign alttext = "Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt)." %}
+    {{alttext}}
     {% endif %}
+
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
