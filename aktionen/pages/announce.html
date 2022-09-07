@@ -5,11 +5,54 @@ resource: true
 categories: [info]
 ---
 
+<script>
+displayState = 'new'; 
+
+function getCompareDate() {
+  var d = new Date(),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear();
+  if (month.length < 2) month = '0' + month;
+  if (day.length < 2) day = '0' + day;
+  return [year, month, day].join('');
+}
+
+
+function showOld(){
+	displayState = 'old';
+	events = document.querySelectorAll('[event-date]');
+	events.forEach( item => {
+		if(item.getAttribute('event-date') < getCompareDate()) item.style.display='inherit';
+		else item.style.display='none';
+	});
+}
+
+function showNew(){
+	displayState = 'new';
+	events = document.querySelectorAll('[event-date]');
+	events.forEach( item => {
+		if(item.getAttribute('event-date') >= getCompareDate()) item.style.display='inherit';
+		else item.style.display='none';
+	});
+}
+
+function toggleDisplayState(){
+	if(displayState == 'new'){
+		showOld();
+	}else{
+		showNew();
+	}
+}
+addEventListener('load', (event) => {showNew();});
+</script>
+
 Diese Seite gibt eine Übersicht zu anstehenden Veranstaltungen in Nürnberg.
 
 	  <h3> Achtung! Vorläufige Informationen die nicht von den Anmeldenden gepflegt werden! Bitte bei den jeweiligen Quellen nachschauen! </h3>
 
 	  <noscript>Wenn du dies liest, kann dein Browser kein Javascript (oder du hast es ausgeschaltet). Javascript wird hier verwendet um vergangene Ereignisse auszublenden, du musst also ggf. runterscrollen um aktuelles zu sehen, weil von alt nach neu sortiert wird.</noscript>
+
 	  {% assign ordered = site.announce | sort: 'event-date' %}
 {% for item in ordered %}
 
@@ -22,20 +65,5 @@ Diese Seite gibt eine Übersicht zu anstehenden Veranstaltungen in Nürnberg.
 </div>
 
 {% endfor %}
-<script>
-function getCompareDate() {
-  var d = new Date(),
-      month = '' + (d.getMonth() + 1),
-      day = '' + d.getDate(),
-      year = d.getFullYear();
-  if (month.length < 2) month = '0' + month;
-  if (day.length < 2) day = '0' + day;
-  return [year, month, day].join('');
-}
+<button type="button" onclick="toggleDisplayState()">Ansicht wechseln</button>
 
-events = document.querySelectorAll('[event-date]');
-events.forEach( item => {
-		if(item.getAttribute('event-date') < getCompareDate()) item.style.display='none';
-	}
-)
-</script>
