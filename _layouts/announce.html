@@ -31,7 +31,7 @@ layout: default
   {% if page.imageurl or page.imagelocal %}
   <div>
 	  {% if page.imagelocal %}
-	  <img src="{% link assets/announce-img/2022-09-09-gedenkkundgebung-nsu.png %}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
+	  <img src="{% link {{page.imagelocal}} %}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
 	  {% else %}
 	  <img src="{{page.imageurl}}"/>
 	  {% endif %}
