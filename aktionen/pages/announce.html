@@ -5,6 +5,7 @@ resource: true
 categories: [info]
 ---
 
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 <script>
 displayState = 'new'; 
 
@@ -60,7 +61,7 @@ Sharepics/Poster gibt es, soweit verfügbar, auf den Unterseiten (denn sonst wä
 <div id="{{item.url}}" event-date="{{item.event-date | date: '%Y%m%d'}}">
 <h2> {{ item.event-date }}: <a href="{{item.url}}">{{ item.title }}</a></h2>
 
-<i>letztes Update dieses Eintrags: {{item.date}}</i>
+<i>letztes Update dieses Eintrags: {{item.date | date: date_format}}</i>
 
 {{ item.content }}
 </div>
