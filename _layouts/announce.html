@@ -29,7 +29,7 @@ layout: default
   {% if page.imageurl or page.imagelocal %}
   <div>
 	  {% if page.imagelocal %}
-	  <img src="{{page.imagelocal | relative_url }}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
+	  <img src="{{ "assets/announce-img/" | append page.imagelocal | relative_url }}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
 	  {% else %}
 	  <img src="{{page.imageurl}}" alt="{% if page.alttext %}{{page.alttext}}{%else%}Ein Bild passend zur Veranstaltung (keine Bildbeschreibung hinterlegt).{%endif%}">
 	  {% endif %}
