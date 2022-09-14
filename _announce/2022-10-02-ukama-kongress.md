@@ -1,9 +1,9 @@
 ---
 layout: announce
-title: "Sehen, Urteilen, Handeln"
+title: "Sehen, Urteilen, Handeln (Ende)"
 categories: [klima]
-date: 2022-09-05
-event-date: 2022-09-30
+date: 2022-09-14
+event-date: 2022-10-02
 gruppe: [ukama]
 ---
 
